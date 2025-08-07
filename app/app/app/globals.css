@@ -1,0 +1,2 @@
+/* если Tailwind не нужен прямо сейчас, пускай будет пустой CSS */
+html, body { margin: 0; padding: 0; }
